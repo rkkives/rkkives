@@ -1,22 +1,3 @@
-# Hi, I'm Rejc! 👋
-
-I'm a passionate developer and student performer based in Batangas City.
-I enjoy going to cafe's and I have a knack for Culture and Arts. Currently
-taking my degree in BS Computer Science at BatStateU - The NEU.
-#
-### 🔧 Techs and Tweaks
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,arch,cpp,linux,mysql,ps,vim," />
-  </a>
-</p>
-
-#
-### 📫 Connect with me
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rejc-guillo-63875b397/)
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:[rejccguillo@gmail.com])
-#
-
 <div align="center">
   <img src="header.png" width="100%" alt="Welcome to My Github" />
 </div>
@@ -26,6 +7,9 @@ taking my degree in BS Computer Science at BatStateU - The NEU.
 <div align="center">
   <a href="https://www.linkedin.com/in/rejc-guillo-63875b397/">
     <img src="https://img.shields.io/badge/LinkedIn-0D3B66?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:[rejccguillo@gmail.com]">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
 
@@ -57,23 +41,15 @@ taking my degree in BS Computer Science at BatStateU - The NEU.
 
 <h2 align="center">⚙️ Technologies</h2>
 
-<div align="center">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,arch,cpp,linux,mysql,ps,vim," />
   </a>
-</div>
+</p>
 
 <br/>
 
 <h2 align="center">📈 Statistics</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rkkives&show_icons=true&hide_border=true&count_private=true&bg_color=0D3B66&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff" height="150" alt="stats graph"  />
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rkkives&hide_border=true&bg_color=0D3B66&text_color=ffffff&stroke_color=ffffff&ring_color=ffffff&fire_color=ffffff&currStreakLabel=ffffff" height="150" alt="streak graph" />
-</div>
-
-<br/>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rkkives&bg_color=0D3B66&color=ffffff&line=4db8ff&point=ffffff&area=true&hide_border=true" width="100%" />
