@@ -42,7 +42,6 @@
 <h2 align="center">⚙️ Technologies</h2>
 
 <p align="center">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,arch,cpp,linux,mysql,ps,vim," />
   </a>
 </p>
