@@ -9,7 +9,7 @@ I'm a passionate developer and student performer based in Batangas City.
     <img src="https://skillicons.dev/icons?i=java,arch,cpp,linux,mysql,ps,vim," />
   </a>
 </p>
-#
+
 
 ### 📫 Connect with me
 #
