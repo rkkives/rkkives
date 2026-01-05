@@ -52,5 +52,12 @@
 <h2 align="center">📈 Statistics</h2>
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rkkives&theme=dark&show_icons=true&hide_border=true&count_private=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rkkives&theme=dark&hide_border=true" height="150" alt="streak graph" />
+</div>
+
+<br/>
+
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rkkives&bg_color=0D3B66&color=ffffff&line=4db8ff&point=ffffff&area=true&hide_border=true" width="100%" />
 </div>
