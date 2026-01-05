@@ -1,6 +1,8 @@
 # Hi, I'm Rejc! 👋
 
 I'm a passionate developer and student performer based in Batangas City.
+I enjoy going to cafe's and I have a knack for Culture and Arts. Currently
+taking my degree in BS Computer Science at BatStateU - The NEU.
 #
 ### 🔧 Techs and Tweaks
 <p align="center">
