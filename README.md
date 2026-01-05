@@ -1,7 +1,7 @@
 # Hi, I'm Rejc! 👋
 
 I'm a passionate developer and student performer based in Batangas City.
-
+#
 ### 🔧 Techs and Tweaks
 <p align="center">
   <a href="https://skillicons.dev">
