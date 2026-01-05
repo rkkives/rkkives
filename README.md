@@ -3,7 +3,7 @@
 I'm a passionate developer and student performer based in Batangas City.
 
 
-#
+
 ### 🔧 Techs and Tweaks
 #
 <p align="center">
@@ -12,7 +12,7 @@ I'm a passionate developer and student performer based in Batangas City.
   </a>
 </p>
 
-#
+
 ### 📫 Connect with me
 #
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rejc-guillo-63875b397/)
