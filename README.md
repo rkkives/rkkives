@@ -31,7 +31,7 @@
       🐈 <b>Cat Lover</b><br/>
     </td>
     <td width="40%" align="center" valign="middle">
-      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDA1MDZ0YzYwZmVicjNiMGN3YjE1Yjh1dHBlYW14bGJkN3p0cXp0cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QVgwPD98gFG9HLn1no/giphy.gif" width="150" />
+      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDA1MDZ0YzYwZmVicjNiMGN3YjE1Yjh1dHBlYW14bGJkN3p0cXp0cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QVgwPD98gFG9HLn1no/giphy.gif" width="300" />
     </td>
   </tr>
 </table>
