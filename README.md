@@ -21,7 +21,7 @@
 <div align="center">
 <table border="0" width="100%">
   <tr>
-    <td width="60%" valign="middle">
+    <td width="70%" valign="middle">
       <br/>
       Hello There! I'm <b>Rejc</b>, a Computer Science student. I'm a passionate developer and student performer based in Batangas City. I enjoy going to cafe's and I have a knack for Culture and Arts. Currently taking my degree in BS Computer Science at BatStateU - The NEU.
       <br/><br/>
@@ -30,7 +30,7 @@
       💠 <b>Student Leader & Volunteer</b><br/>
       🐈 <b>Cat Lover</b><br/>
     </td>
-    <td width="40%" align="center" valign="middle">
+    <td width="30%" align="center" valign="middle">
       <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDA1MDZ0YzYwZmVicjNiMGN3YjE1Yjh1dHBlYW14bGJkN3p0cXp0cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QVgwPD98gFG9HLn1no/giphy.gif" width="300" />
     </td>
   </tr>
