@@ -4,7 +4,11 @@ I'm a passionate developer and student performer based in Batangas City.
 
 ### 🔧 Techs and Tweaks
 
-[![My Skills](https://skillicons.dev/icons?i=java,arch,cpp,linux,mysql,ps,vim,)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,arch,cpp,linux,mysql,ps,vim," />
+  </a>
+</p>
 
 ### 📫 Connect with me
 
